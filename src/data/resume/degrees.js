@@ -1,15 +1,21 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Pratt Institute',
+    degree: 'Bachelors in Digital Arts - 3D Animation',
+    link: 'https://pratt.edu',
+    year: 2018,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'University of California Irvine',
+    degree: 'Certificate of Completion - Full Stack Web Development',
+    link: 'https://uci.edu',
+    year: 2018,
+  },
+  {
+    school: 'Rithm School',
+    degree: 'Certificate of Completion - Full Stack Web Development',
+    link: 'https://rithmschool.com',
+    year: 2019,
   },
 ];
 
