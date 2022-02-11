@@ -9,6 +9,15 @@ const data = [
       'A small React-based side project built to track Covid-19 cases',
     link: 'https://jonsong246.github.io/CoronaTracker/',
   },
+  {
+    title: 'Cryptoverse - Cryptocurrency Tracker',
+    subtitle: 'Personal Projects',
+    image: 'images/projects/cryptocurrency.jpeg',
+    date: '2022-02-08',
+    desc:
+      'A react-based project keeping track of latest cryptocurrency changes and news from an API database',
+    link: 'https://jonsong246.github.io/Cryptoverse/',
+  },
 ];
 
 export default data;
