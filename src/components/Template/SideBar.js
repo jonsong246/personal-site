@@ -13,7 +13,6 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Jon Song</h2>
-        <p><a href="mailto:jonsong246@gmail.com">Jon Song</a></p>
       </header>
     </section>
 
