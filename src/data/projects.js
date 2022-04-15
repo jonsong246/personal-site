@@ -15,7 +15,7 @@ const data = [
     image: '/images/projects/acctg.png',
     date: '2019-01-30',
     desc:
-      'A simple enterprise accounting/book-keeping',
+      'A simple enterprise accounting/book-keeping (This project takes a few seconds to load)',
     link: 'https://peaceful-anchorage-98434.herokuapp.com/',
   },
   {
