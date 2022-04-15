@@ -12,12 +12,13 @@ I am continuing my studies in software engineering in hopes of transitioning thi
 
 # I like
 
+- Competitive Gaming
 - Coding
 - Design
 - Music
 - Piano
 - Jazz and Classical Music
-- Working Out
+- Fitness
 - Anime
 - Tennis
 - Animals
@@ -29,9 +30,3 @@ I am continuing my studies in software engineering in hopes of transitioning thi
 - I spent 2018 attending a full-stack coding bootcamp at the University of California, Irvine.
 - In 2019 I had moved up to San Francisco and attended a full-stack coding bootcamp at the Rithm School.
 - I spent the latter half of 2019 attending an engineering internship and worked on a mobile application called My Home Pathway which utilized React Native.
-
-# I dream of
-
-- always finding inspiration.
-- enabling a brighter future.
-- always doing the best I can.

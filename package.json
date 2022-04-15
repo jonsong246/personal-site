@@ -14,24 +14,27 @@
     "start": "react-scripts start",
     "lint": "eslint src",
     "test": "react-scripts test --watchAll=false",
-    "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js"
+    "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js",
+    "predeploy": "npm run build && react-snap",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
     "@fortawesome/free-brands-svg-icons": "^5.15.2",
     "@fortawesome/free-regular-svg-icons": "^5.15.2",
     "@fortawesome/react-fontawesome": "0.1.14",
+    "@sefailyasoz/react-carousel": "^1.1.1",
     "bootstrap": "^5.1.3",
     "dayjs": "^1.10.4",
-    "gh-pages": "^3.1.0",
     "prop-types": "^15.7.2",
     "raw.macro": "^0.4.2",
     "react": "^17.0.1",
-    "react-bootstrap": "^2.1.2",
+    "react-bootstrap": "^2.2.3",
     "react-burger-menu": "^3.0.3",
     "react-dom": "^17.0.1",
     "react-ga": "^3.3.0",
     "react-helmet-async": "^1.0.7",
+    "react-icons": "^4.3.1",
     "react-markdown": "^5.0.3",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^4.0.1",
@@ -47,6 +50,7 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "6.4.1",
     "eslint-plugin-react": "^7.22.0",
+    "gh-pages": "^3.2.3",
     "source-map-explorer": "^2.5.2"
   },
   "browserslist": {
