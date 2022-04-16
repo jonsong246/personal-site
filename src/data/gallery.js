@@ -3,7 +3,7 @@ const data = [
   {
     title: 'Living Room - Day',
     subtitle: 'Personal Projects',
-    image: '/images/projects/Render_AssignmentA.jpg',
+    image: '/images/gallery/Render_AssignmentA.jpg',
     date: '2018-12-30',
     desc:
       '3D Rendered Living Room Timelapse',
