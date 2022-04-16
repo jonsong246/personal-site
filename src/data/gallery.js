@@ -3,7 +3,7 @@ const data = [
   {
     title: 'Living Room - Day',
     subtitle: 'Personal Projects',
-    image: '/images/gallery/Render_AssignmentA.png',
+    image: '/images/projects/Render_AssignmentA.jpg',
     date: '2018-12-30',
     desc:
       '3D Rendered Living Room Timelapse',
@@ -11,7 +11,7 @@ const data = [
   {
     title: 'Living Room - Evening',
     subtitle: 'Personal Projects',
-    image: '/images/gallery/Render_AssignmentB.png',
+    image: '/images/gallery/Render_AssignmentB.jpg',
     date: '2018-12-30',
     desc:
       '3D Rendered Living Room Timelapse',
@@ -27,7 +27,7 @@ const data = [
   {
     title: 'Cabin - Evening',
     subtitle: 'Personal Projects',
-    image: '/images/gallery/Cabin_B.png',
+    image: '/images/gallery/Cabin_B.jpg',
     date: '2018-12-30',
     desc:
       '3D Rendered Cabin Timelapse',
@@ -35,7 +35,7 @@ const data = [
   {
     title: 'Gummy Bears',
     subtitle: 'Personal Projects',
-    image: '/images/gallery/GummyBears',
+    image: '/images/gallery/GummyBears.jpg',
     date: '2018-12-30',
     desc:
       '3D Rendered Gummy Bears',
