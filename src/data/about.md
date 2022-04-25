@@ -8,18 +8,16 @@ I am continuing my studies in software engineering in hopes of transitioning thi
 
 # Some history
 
-- I've been introduced to technology at an early age and have been immersed in this field for as long as I can remember. It all started off with a few video games, all of which then paved my way into the Digital Realm. Aside from a strong passion in gaming, this led me to explore visual design and eventually software engineering.
+- I've been introduced to technology at an early age and have been immersed in this field for as long as I can remember. It all started off with a few video games, all of which then paved my way into the Digital Realm. This led me towards exploring 3D Animation and eventually software engineering.
 
-# I like
+# I enjoy
 
-- Competitive Gaming
 - Coding
 - Design
 - Music
 - Piano
 - Jazz and Classical Music
 - Fitness
-- Anime
 - Tennis
 - Animals
 
