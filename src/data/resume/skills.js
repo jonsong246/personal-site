@@ -21,12 +21,12 @@ const skills = [
   },
   {
     title: '3D Lighting and Rendering',
-    competency: 5,
+    competency: 4,
     category: ['Design'],
   },
   {
     title: '3D Modeling',
-    competency: 5,
+    competency: 4,
     category: ['Design'],
   },
   {
@@ -36,17 +36,17 @@ const skills = [
   },
   {
     title: 'Javascript',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
     title: 'Node.JS',
-    competency: 3,
+    competency: 2,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'React',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -76,7 +76,7 @@ const skills = [
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
-    competency: 5,
+    competency: 4,
     category: ['Web Development', 'Languages'],
   },
   {
