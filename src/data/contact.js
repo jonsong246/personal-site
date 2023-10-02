@@ -18,11 +18,6 @@ const data = [
     icon: faFacebookF,
   },
   {
-    link: 'https://www.instagram.com/frostevia135/',
-    label: 'Instagram',
-    icon: faInstagram,
-  },
-  {
     link: 'https://www.linkedin.com/in/jon-song/',
     label: 'LinkedIn',
     icon: faLinkedinIn,

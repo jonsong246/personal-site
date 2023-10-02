@@ -10,24 +10,6 @@ const data = [
     link: 'https://vitamind-b6c3c.firebaseapp.com/index.html',
   },
   {
-    title: 'ACCTG Web Accounting',
-    subtitle: 'Personal Projects',
-    image: '/images/projects/acctg.png',
-    date: '2019-01-30',
-    desc:
-      'A simple enterprise accounting/book-keeping (This project takes a few seconds to load)',
-    link: 'https://peaceful-anchorage-98434.herokuapp.com/',
-  },
-  {
-    title: 'Covid-19 Tracker',
-    subtitle: 'Personal Projects',
-    image: '/images/projects/covid-19.png',
-    date: '2022-01-24',
-    desc:
-      'A small React-based side project built to track Covid-19 cases',
-    link: 'https://jonsong246.github.io/CoronaTracker/',
-  },
-  {
     title: 'Cryptoverse - Cryptocurrency Tracker',
     subtitle: 'Personal Projects',
     image: '/images/projects/cryptocurrency.png',
